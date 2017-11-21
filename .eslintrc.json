@@ -6,7 +6,7 @@
     "jquery": true,
     "jasmine": true,
     "mocha": true,
-    "qunit": true 
+    "qunit": false 
   },
   "extends": "eslint:recommended",
   "parserOptions": {
@@ -25,4 +25,3 @@
     "DocumentTouch": true
   }
 }
-
